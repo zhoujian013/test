@@ -15,6 +15,7 @@
 		23A11DCF1D6449CA00B68E62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23A11DCD1D6449CA00B68E62 /* LaunchScreen.storyboard */; };
 		23A11DD81D644FD200B68E62 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23A11DD71D644FD200B68E62 /* FirstViewController.m */; };
 		23A11DDB1D64503700B68E62 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23A11DDA1D64503700B68E62 /* SecondViewController.m */; };
+		23A11DDE1D64514F00B68E62 /* ThridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23A11DDD1D64514F00B68E62 /* ThridViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		23A11DD71D644FD200B68E62 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		23A11DD91D64503700B68E62 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		23A11DDA1D64503700B68E62 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		23A11DDC1D64514F00B68E62 /* ThridViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThridViewController.h; sourceTree = "<group>"; };
+		23A11DDD1D64514F00B68E62 /* ThridViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThridViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				23A11DD71D644FD200B68E62 /* FirstViewController.m */,
 				23A11DD91D64503700B68E62 /* SecondViewController.h */,
 				23A11DDA1D64503700B68E62 /* SecondViewController.m */,
+				23A11DDC1D64514F00B68E62 /* ThridViewController.h */,
+				23A11DDD1D64514F00B68E62 /* ThridViewController.m */,
 				23A11DC81D6449CA00B68E62 /* Main.storyboard */,
 				23A11DCB1D6449CA00B68E62 /* Assets.xcassets */,
 				23A11DCD1D6449CA00B68E62 /* LaunchScreen.storyboard */,
@@ -159,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23A11DDE1D64514F00B68E62 /* ThridViewController.m in Sources */,
 				23A11DDB1D64503700B68E62 /* SecondViewController.m in Sources */,
 				23A11DC71D6449CA00B68E62 /* ViewController.m in Sources */,
 				23A11DC41D6449CA00B68E62 /* AppDelegate.m in Sources */,
